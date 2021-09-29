@@ -18,5 +18,5 @@ The main goal of this project is connect to a Postgresql BDD, create and exposes
     `go get github.com/jinzhu/gorm`
     `go get github.com/gorilla/mux`
     `go get github.com/dgrijalva/jwt-go`
-    `go get github.com/joho/gotoenv`
+    `go get github.com/joho/godotenv`
 
