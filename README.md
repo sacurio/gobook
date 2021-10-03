@@ -15,8 +15,8 @@ The main goal of this project is connect to a Postgresql BDD, create and exposes
 
 2. Install external dependencies
 
-    `go get github.com/jinzhu/gorm`
-    `go get github.com/gorilla/mux`
-    `go get github.com/dgrijalva/jwt-go`
-    `go get github.com/joho/godotenv`
+    1. `go get github.com/jinzhu/gorm`
+    2. `go get github.com/gorilla/mux`
+    3. `go get github.com/dgrijalva/jwt-go`
+    4. `go get github.com/joho/godotenv`
 
